@@ -1,0 +1,45 @@
+/** category visualization */
+
+#cartodb_query {
+   polygon-opacity: 0.7;
+   line-color: #FFF;
+   line-width: 0.5;
+   line-opacity: 1;
+}
+
+#cartodb_query[cityname="COUNTY REGIONAL FACILITY"] {
+   polygon-fill: #DDDDDD;
+}
+#cartodb_query[cityname="FORT LAUDERDALE"] {
+   polygon-fill: #b30000;
+}
+#cartodb_query[cityname="DANIA BEACH"] {
+   polygon-fill: #1F78B4;
+}
+#cartodb_query[cityname="DAVIE"] {
+   polygon-fill: #B2DF8A;
+}
+#cartodb_query[cityname="HOLLYWOOD"] {
+   polygon-fill: #33A02C;
+}
+#cartodb_query[cityname="NORTH LAUDERDALE"] {
+   polygon-fill: #FB9A99;
+}
+#cartodb_query[cityname="PARKLAND"] {
+   polygon-fill: #E31A1C;
+}
+#cartodb_query[cityname="PEMBROKE PINES"] {
+   polygon-fill: #FDBF6F;
+}
+#cartodb_query[cityname="SOUTHWEST RANCHES"] {
+   polygon-fill: #FF7F00;
+}
+#cartodb_query[cityname="TRIBAL LAND"] {
+   polygon-fill: #CAB2D6;
+}
+#cartodb_query[cityname="UNINCORPORATED"] {
+   polygon-fill: #6A3D9A;
+}
+#cartodb_query {
+   polygon-fill: #5CA2D1;
+}
