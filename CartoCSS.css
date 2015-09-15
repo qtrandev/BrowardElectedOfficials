@@ -37,8 +37,29 @@
 #cartodb_query[cityname="NORTH LAUDERDALE"] {
    polygon-fill: #FB9A99;
 }
+#cartodb_query[cityname="POMPANO BEACH"] {
+   polygon-fill: #4eb3d3;
+}
+#cartodb_query[cityname="COCONUT CREEK"] {
+   polygon-fill: #d7301f;
+}
+#cartodb_query[cityname="DEERFIELD BEACH"] {
+   polygon-fill: #00441b;
+}
+#cartodb_query[cityname="TAMARAC"] {
+   polygon-fill: #cc4c02;
+}
+#cartodb_query[cityname="MARGATE"] {
+   polygon-fill: #cb181d;
+}
 #cartodb_query[cityname="PARKLAND"] {
    polygon-fill: #E31A1C;
+}
+#cartodb_query[cityname="OAKLAND PARK"] {
+   polygon-fill: #addd8e;
+}
+#cartodb_query[cityname="LAUDERHILL"] {
+   polygon-fill: #ffffcc;
 }
 #cartodb_query[cityname="PEMBROKE PINES"] {
    polygon-fill: #FDBF6F;
