@@ -13,6 +13,18 @@
 #cartodb_query[cityname="FORT LAUDERDALE"] {
    polygon-fill: #b30000;
 }
+#cartodb_query[cityname="CORAL SPRINGS"] {
+   polygon-fill: #084081;
+}
+#cartodb_query[cityname="PLANTATION"] {
+   polygon-fill: #0868ac;
+}
+#cartodb_query[cityname="SUNRISE"] {
+   polygon-fill: #2b8cbe;
+}
+#cartodb_query[cityname="WESTON"] {
+   polygon-fill: #a8ddb5;
+}
 #cartodb_query[cityname="DANIA BEACH"] {
    polygon-fill: #1F78B4;
 }
