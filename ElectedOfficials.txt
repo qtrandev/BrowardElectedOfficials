@@ -1,29 +1,30 @@
-City,Mayor,Vice Mayor,CommissionerDistrict1,CommissionerDistrict2,CommissionerDistrict3,CommissionerDistrict4,CommissionerDistrict5,CommissionerDistrict6
-FORT LAUDERDALE,"John P. ""Jack"" Seiler",Robert L. McKinzie,Bruce G. Roberts,Dean J. Trantalis,,Romney Rogers,,
-DAVIE,Judy Paul,Susan Starkey,Bryan Caletka,Caryl Hattan,Marlon Luis,,,
-HOLLYWOOD,Peter Bober,Kevin D. Biederman,Patricia Asseff,Peter D. Hernandez,Traci L. Callari,Richard S. Blattner,,Linda Sherwood
-POMPANO BEACH,Lamar Fisher,Charlotte Burrie,Barry Dockswell,,Rex Hardin,Ed Phillips,Barry Moss,
-CORAL SPRINGS,Skip Campbell,Larry Vignola,,Dan Daley,,Lou Cimaglia,Joy Carter,
-PEMBROKE PINES,Frank C. Ortis,Iris A. Siple,Carl Schechter,Jay Schwartz,,Angelo Castillo,,
-PLANTATION,Diane Veltri Bendekovic,,Ron Jacobs,Robert A. Levy,Lynn Stoner,Peter S. Tingom,Chris Zimmerman,
-DEERFIELD BEACH,Jean M. Robb,Bill Ganz,Joe Miller,Gloria J. Battle,Richard Rosenzweig,,,
-SUNRISE,Michael J. Ryan,Donald K. Rosen,Neil C. Kerch,,Joseph A. Scuotto,Lawrence A. Sofield,,
-MIRAMAR,Wayne M. Messam,Darline B. Riggs,Winston F. Barnes,Maxwell B. Chambers,Yvette Colbourne,,,
-WESTON,Daniel J. Stermer,,Angel M. Gomez,Thomas M. Kallman,Jim Norton,Toby Feuer,,
-HALLANDALE BEACH,Joy Cooper,"William ""Bill"" Julian",Anthony Sanders,Keith London,,Michele Lazarow,,
-COCONUT CREEK,Becky Tooley,Mikkie Belvedere,Lou Sarbone,Sandra L. Welch, Joshua Rydell,,,
-TAMARAC,Harry Dressler,Pamela Bushnell,,Michelle J. Gomez,Diane Glasser,Debra Placko,,
-LAUDERHILL,Richard J. Kaplan,"Hayward J. Benson,  Jr.",M. Margaret Bates,Howard Berger,Ken Thurston,,,
-DANIA BEACH,"Marco Salvino, Sr.",Bobbie H. Grace,Chickie Brandimarte,"Walter B. ""Duke"" Duke III",Albert C. Jones,,,
-MARGATE,Joanne Simone,Tommy Ruzzano,Joyce W. Bryan,"Lesa ""Le"" Peerman",Frank B. Talerico,,,
-COOPER CITY,Greg Ross,,John Sims,Lisa Mallozzi,Jeff Green,James C. Curran,,
-OAKLAND PARK,Jed Shank,Tim Lonergan,Shari L. McCartney,John Adornato III,Sara Guevrekian,,,
-WILTON MANORS,Gary Resnick,Scott Newton,Julie A. Carson,Justin S. Flippen,Tom Green,,,
-LAUDERDALE BY THE SEA,Scot Sasser,Chris Vincent,Mark Brown,Stuart Dodd,Elliot Sokolow,,,
-PARKLAND,Michael Udine,Stacy Kagan,Mark Weissman,David Rosenof,Christine Hunschofsky,,,
-NORTH LAUDERDALE,Jack Brady,Jerry Graziose,Lorenzo Wood,Rich Moyle,David G. Hilton,,,
-LAUDERDALE LAKES,Barrington A. Russell Sr.,Beverly Williams,Patricia Hawkins-Williams,Gloria Lewis,Edwina Coleman,Eileen Rathery,,
-LIGHTHOUSE POINT,Glenn Troast,,Michael S. Long,Kyle Van Buskirk,Jason Joffe,Sandy Johnson,Earl Maucker,
-SOUTHWEST RANCHES,Jeff Nelson,Freddy Fisikelli,Steve Breitkreuz,Gary Jablonski,Doug McKay,,,
-HILLSBORO BEACH,Richard Maggiore,Deborah Tarrant,Troy Link,Vicky Feaman,Carmen McGarry,,,
-PEMBROKE PARK,Ashira Mohammed,Howard P. Clark Jr.,Annette Wexler,Georgina Cohen,Emma Shoaff,,,
+cityname,mayor,official1_name,official1_position,official1_district,official2_name,official2_position,official2_district,official3_name,official3_position,official3_district,official4_name,official4_position,official4_district,official5_name,official5_position,official5_district,official6_name,official6_position,official6_district,city_officials_website
+COCONUT CREEK,Becky Tooley,Mikkie Belvedere,Vice Mayor,,Lou Sarbone,Commissioner,,Sandra L. Welch,Commissioner,, Joshua Rydell,Commissioner,,,,,,,,http://www.coconutcreek.net/community-relations-folder/city-commission
+COOPER CITY,Greg Ross,John Sims,Commissioner,District 1,Lisa Mallozzi,Commissioner,District 2,Jeff Green,Commissioner,District 3,James C. Curran,Commissioner,District 4,,,,,,,http://www.coopercityfl.org/index.asp?Type=B_LIST&SEC={460BF99D-3AF7-4369-942C-034EC15218DC}
+CORAL SPRINGS,Skip Campbell,Larry Vignola,Vice Mayor,Seat 3,Dan Daley,Commissioner,Seat 2,Lou Cimaglia,Commissioner,Seat 4,Joy Carter,Commissioner,Seat 5,,,,,,,http://www.coralsprings.org/government/city-commission/your-representatives
+DANIA BEACH,"Marco Salvino, Sr.",Bobbie H. Grace,Vice Mayor,,Chickie Brandimarte,Commissioner,,"Walter B. ""Duke"" Duke, III",Commissioner,,Albert C. Jones,Commissioner,,,,,,,,http://www.ci.dania-beach.fl.us/index.aspx?nid=57
+DAVIE,Judy Paul,Susan Starkey,Vice Mayor,District 3,Bryan Caletka,Councilmember,District 1,Caryl Hattan,Councilmember,District 2,Marlon Luis,Councilmember,District 4,,,,,,,http://www.davie-fl.gov/Pages/DavieFL_Admnstratn/CouncilDistricts/index
+DEERFIELD BEACH,Jean M. Robb,Bill Ganz,Vice Mayor,District 4,Joe Miller,Commissioner,District 1,Gloria J. Battle,Commissioner,District 2,Richard Rosenzweig,Commissioner,District 3,,,,,,,http://www.deerfield-beach.com/index.aspx?nid=1022
+FORT LAUDERDALE,"John P. ""Jack"" Seiler",Robert L. McKinzie,Vice Mayor,District 3,Bruce G. Roberts,Commissioner,District 1,Dean J. Trantalis,Commissioner,District 2,Romney Rogers,Commissioner,District 4,,,,,,,http://www.fortlauderdale.gov/government/city-commission
+HALLANDALE BEACH,Joy Cooper,"William ""Bill"" Julian",Vice Mayor,Seat 3,Anthony Sanders,Commissioner,Seat 1,Keith London,Commissioner,Seat 2,Michele Lazarow,Commissioner,Seat 4,,,,,,,http://www.hallandalebeachfl.gov/index.aspx?NID=292
+HILLSBORO BEACH,Richard Maggiore,Deborah Tarrant,Vice Mayor,,Troy Link,Commissioner,,Vicky Feaman,Commissioner,,Carmen McGarry,Commissioner,,,,,,,,http://www.townofhillsborobeach.com/town-government/town-commission
+HOLLYWOOD,Peter Bober,Kevin D. Biederman,Vice Mayor,,Patricia Asseff,Commissioner,District 1,Peter D. Hernandez,Commissioner,District 2,Traci L. Callari,Commissioner,District 3,Richard S. Blattner,Commissioner,District 4,Linda Sherwood,Commissioner,District 6,http://www.hollywoodfl.org/index.aspx?nid=89
+LAUDERDALE BY THE SEA,Scot Sasser,Chris Vincent,Vice Mayor,,Mark Brown,Commissioner,,Stuart Dodd,Commissioner,,Elliot Sokolow,Commissioner,,,,,,,,http://www.lauderdalebythesea-fl.gov/commission/c-overview.htm
+LAUDERDALE LAKES,"Barrington A. Russell, Sr.",Beverly Williams,Vice Mayor,,Patricia Hawkins-Williams,Commissioner,,Gloria Lewis,Commissioner,,Edwina Coleman,Commissioner,,Eileen Rathery,Commissioner,,,,,http://www.lauderdalelakes.org/123/City-Commission
+LAUDERHILL,Richard J. Kaplan,"Hayward J. Benson,  Jr.",Vice Mayor,Seat 4,M. Margaret Bates,Commissioner,Seat 3,Howard Berger,Commissioner,Seat 1,Ken Thurston,Commissioner,Seat 2,,,,,,,http://lauderhill-fl.gov/commission/city-commission
+LIGHTHOUSE POINT,Glenn Troast,Michael S. Long,Commission President,Seat 2,Kyle Van Buskirk,Commission Vice President,Seat 4,Jason Joffe,Commissioner,Seat 3,Sandy Johnson,Commissioner,Seat 5,Earl Maucker,Commissioner,Seat 1,,,,http://city.lighthousepoint.com/elected-officials/
+MARGATE,Joanne Simone,Tommy Ruzzano,Vice Mayor,,Joyce W. Bryan,Commissioner,,"Lesa ""Le"" Peerman",Commissioner,,Frank B. Talerico,Commissioner,,,,,,,,http://www.margatefl.com/government/city-commission.html
+MIRAMAR,Wayne M. Messam,Darline B. Riggs,Vice Mayor,,Winston F. Barnes,Commissioner,,Maxwell B. Chambers,Commissioner,,Yvette Colbourne,Commissioner,,,,,,,,http://www.ci.miramar.fl.us/cityofficials/index.html
+NORTH LAUDERDALE,Jack Brady,Jerry Graziose,Vice Mayor,,Lorenzo Wood,Commissioner,,Rich Moyle,Commissioner,,David G. Hilton,Commissioner,,,,,,,,http://www.nlauderdale.org/city_commission/elected_officials/index.php
+OAKLAND PARK,Jed Shank,Tim Lonergan,Vice Mayor,,Shari L. McCartney,Commissioner,,John Adornato III,Commissioner,,Sara Guevrekian,Commissioner,,,,,,,,http://www.oaklandparkfl.org/276/City-Commission
+PARKLAND,Michael Udine,Stacy Kagan,Vice Mayor,District 1,Mark Weissman,Deputy Vice Mayor,District 4,David Rosenof,Commissioner,District 3,Christine Hunschofsky,Commissioner,District 2,,,,,,,http://www.cityofparkland.org/127/City-Commission
+PEMBROKE PARK,Ashira Mohammed,"Howard P. Clark, Jr.",Vice Mayor,,Annette Wexler,Clerk Commissioner,,Georgina Cohen,Commissioner,,Emma Shoaff,Commissioner,,,,,,,,http://www.townofpembrokepark.com/commissioners.html
+PEMBROKE PINES,Frank C. Ortis,Iris A. Siple,Vice Mayor,District 3,Carl Schechter,Commissioner,District 1,Jay Schwartz,Commissioner,District 2,Angelo Castillo,Commissioner,District 4,,,,,,,http://www.ppines.com/Index.aspx?NID=156
+PLANTATION,Diane Veltri Bendekovic,Ron Jacobs,Councilmember,,Robert A. Levy,Councilmember,,Lynn Stoner,Councilmember,,Peter S. Tingom,Councilmember,,Chris Zimmerman,Councilmember,,,,,http://www.plantation.org/City-Government/Council/
+POMPANO BEACH,Lamar Fisher,Charlotte Burrie,Vice Mayor,District 2,Barry Dockswell,Commissioner,District 1,Rex Hardin,Commissioner,District 3,Ed Phillips,Commissioner,District 4,Barry Moss,Commissioner,District 5,,,,http://pompanobeachfl.gov/pages/misc_pages/city_commission/city_commission.html.php
+SOUTHWEST RANCHES,Jeff Nelson,Freddy Fisikelli,Vice Mayor,District 3,Steve Breitkreuz,Council Member,District 1,Gary Jablonski,Council Member,District 2,Doug McKay,Council Member,District 4,,,,,,,http://www.southwestranches.org/council/
+SUNRISE,Michael J. Ryan,Donald K. Rosen,Deputy Mayor,,Joseph A. Scuotto,Assistant Deputy Mayor,,Neil C. Kerch,Commissioner,,Lawrence A. Sofield,Commissioner,,,,,,,,http://www.sunrisefl.gov/index.aspx?page=76
+TAMARAC,Harry Dressler,Pamela Bushnell,Vice Mayor,District 1,Michelle J. Gomez,Commissioner,District 2,Diane Glasser,Commissioner,District 3,Debra Placko,Commissioner,District 4,,,,,,,http://www.tamarac.org/index.aspx?nid=144
+WEST PARK,"Eric H. Jones, Jr",Rita Mack,Vice Mayor,,Thomas W. Dorsett,Commissioner,,Brian C. Johnson,Commissioner,,Kristine Judeikis,Commissioner,,,,,,,,http://www.cityofwestpark.net/cwp2014/
+WESTON,Daniel J. Stermer,Angel M. Gomez,Commissioner,Seat 1,Thomas M. Kallman,Commissioner,Seat 2,Jim Norton,Commissioner,Seat 3,Toby Feuer,Commissioner,Seat 4,,,,,,,http://www.westonfl.org/Departments/CityCommission/YourCityCommission.aspx
+WILTON MANORS,Gary Resnick,Scott Newton,Vice Mayor,,Julie A. Carson,Commissioner,,Justin S. Flippen,Commissioner,,Tom Green,Commissioner,,,,,,,,http://www.wiltonmanors.com/index.aspx?nid=220
