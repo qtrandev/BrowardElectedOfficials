@@ -1,3 +1,29 @@
-City,Mayor
-FORT LAUDERDALE,John P. "Jack" Seiler
-DAVIE,Judy Paul
+City,Mayor,Vice Mayor,CommissionerDistrict1,CommissionerDistrict2,CommissionerDistrict3,CommissionerDistrict4,CommissionerDistrict5,CommissionerDistrict6
+FORT LAUDERDALE,"John P. ""Jack"" Seiler",Robert L. McKinzie,Bruce G. Roberts,Dean J. Trantalis,,Romney Rogers,,
+DAVIE,Judy Paul,Susan Starkey,Bryan Caletka,Caryl Hatten,Marlon Luis,,,
+HOLLYWOOD,Peter Bober,Kevin D. Biederman,Patty Assef,Peter Hernandez,Traci Callari,Richard Blattner,,Linda Sherwood
+POMPANO BEACH,Lamarr Fisher,Charlotte Burrie,Barry Dockswell,,Rex Hardin,Ed Phillips,Barry Moss,
+CORAL SPRINGS,Skip Campbell,Larry Vignola,,Dan Daley,,Lou Cimaglia,Joy Carter,
+PEMBROKE PINES,Frank C. Ortis,Iris A. Siple,Carl Schechter,Jay Schwartz,,Angelo Castillo,,
+PLANTATION,Diane Veltri Bendekovic,,Ron Jacobs,Dr. Robert Levy,Lynn Stoner,Peter Tingom,Chris Zimmerman,
+DEERFIELD BEACH,Jean M. Robb,Bill Ganz,Joe Miller,Gloria J. Battle,Richard Rosenzweig,,,
+SUNRISE,Michael J. Ryan,Donald K. Rosen,Neil C. Kerch,,Joseph A. Scuotto,Lawrence A. Sofield,,
+MIRAMAR,Wayne M. Messam,Darline B. Riggs,Winston F. Barnes,Maxwell B. Chambers,Yvette Colbourne,,,
+WESTON,Daniel J. Stermer,,Angel M. Gomez,Thomas M. Kallman,Jim Norton,Toby Feuer,,
+HALLANDALE BEACH,Jay Cooper,"William ""Bill"" Julian",Anthony Sanders,Keith London,,Michele Lazarow,,
+COCONUT CREEK,Becky Tooley,Mikkie Belvedere,Lou Sarbone,Sandra L. Welch, Joshua Rydell,,,
+TAMARAC,Harry Dressler,Pamela Bushnell,,Michelle Gomez,Diane Glasser,Debra Placko,,
+LAUDERHILL,Richard J. Kaplan,"Hayward J. Benson,  Jr.",M. Margaret Bates,Howard Berger,Ken Thurston,,,
+DANIA BEACH,"Marco Salvino, Sr.",Bobbie H. Grace,Chickie Brandimarte,"Walter B. ""Duke"" Duke III",Albert C. Jones,,,
+MARGATE,Joanne Simone,Tommy Ruzzano,Joyce W. Bryan,"Lesa ""Le"" Peerman",Frank B. Talerico,,,
+COOPER CITY,Greg Ross,,John Sims,Lisa Mallozzi,Jeff Green,James C. Curran,,
+OAKLAND PARK,Jed Shank,Tim Lonergan,Shari L. McCartney,John Adornato III,Sara Guevrekian,,,
+WILTON MANORS,Gary Resnick,Scott Newton,Julie A. Carson,Justin S. Flippen,Tom Green,,,
+LAUDERDALE BY THE SEA,Scot Sasser,Chris Vincent,Mark Brown,Stuart Dodd,Elliot Sokolow,,,
+PARKLAND,Michael Udine,Stacy Kagan,Mark Weissman,David Rosenof,Christine Hunschofsky,,,
+NORTH LAUDERDALE,Jack Brady,Jerry Graziose,Lorenzo Wood,Rich Moyle,David G. Hilton,,,
+LAUDERDALE LAKES,Barrington A. Russell Sr.,Beverly Williams,Patricia Hawkins-Williams,Gloria Lewis,Edwina Coleman,Eileen Rathery,,
+LIGHTHOUSE POINT,Glenn Troast,,Michael S. Long,Kyle Van Buskirk,Jason Joffe,Sandy Johnson,Earl Maucker,
+SOUTHWEST RANCHES,Jeff Nelson,Freddy Fisikelli,Steve Breitkreuz,Gary Jablonski,Doug McKay,,,
+HILLSBORO BEACH,Richard Maggiore,Deborah Tarrant,Troy Link,Vicky Feaman,Carmen McGarry,,,
+PEMBROKE PARK,Ashira Mohammed,Howard P. Clark Jr.,Annette Wexler,Georgina Cohen,Emma Shoaff,,,
