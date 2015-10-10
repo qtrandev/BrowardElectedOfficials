@@ -1,24 +1,16 @@
 <html>
 <head>
+  <title>Broward Elected Officials</title>
   <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.css" />
   <script src="http://libs.cartocdn.com/cartodb.js/v3/cartodb.js"></script>
-  <!--[if lte IE 8]>
-    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v2/themes/css/cartodb.ie.css" />
-  <![endif]-->
   <style>
-    html, body {width:100%; height:100%; padding: 0; margin: 0;}
-    #cartodb-map { width: 100%; height:100%; background: black;}
+    html, body, #map {width:100%; height:100%; padding: 0; margin: 0;}
   </style>
-
-  <script>
-    window.onload = function() {
-        var vizjson = 'https://qtrandev.cartodb.com/api/v2/viz/9f050e00-6c9f-11e5-8e2e-0e3a376473ab/viz.json';
-        cartodb.createVis('cartodb-map', vizjson);
-    }
-  </script>
 </head>
-
 <body>
-  <div id='cartodb-map'></div>
+  <div id='map'></div>
+  <script>
+    cartodb.createVis('map', 'https://codeforftl.cartodb.com/api/v2/viz/4b423d54-658a-11e5-9994-0ec6f7c8b2b9/viz.json');
+  </script>
 </body>
 </html>
