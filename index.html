@@ -11,38 +11,14 @@
   </style>
 
   <script>
-    var map;
-    function init(){
-      // initiate leaflet map
-      map = new L.Map('cartodb-map', {
-        center: [26.2,-80.3],
-        zoom: 10
-      })
-
-      L.tileLayer('https://dnv9my2eseobd.cloudfront.net/v3/cartodb.map-4xtxp73f/{z}/{x}/{y}.png', {
-        attribution: 'Mapbox <a href="http://mapbox.com/about/maps" target="_blank">Terms &amp; Feedback</a>'
-      }).addTo(map);
-
-      var layerUrl = 'https://qtrandev.cartodb.com/api/v2/viz/9f050e00-6c9f-11e5-8e2e-0e3a376473ab/viz.json';
-
-      // change the query for the first layer
-      var subLayerOptions = {
-        sql: "SELECT * FROM cities9999",
-        cartocss: "#example_cartodbjs_1{marker-fill: #109DCD; marker-width: 5; marker-line-color: white; marker-line-width: 0;}"
-      }
-
-      cartodb.createLayer(map, layerUrl)
-        .addTo(map)
-        .on('done', function(layer) {
-          layer.getSubLayer(0).set(subLayerOptions);
-        }).on('error', function() {
-          //log the error
-        });
+    window.onload = function() {
+        var vizjson = 'https://qtrandev.cartodb.com/api/v2/viz/9f050e00-6c9f-11e5-8e2e-0e3a376473ab/viz.json';
+        cartodb.createVis('cartodb-map', vizjson);
     }
   </script>
 </head>
 
-<body onload="init()">
+<body>
   <div id='cartodb-map'></div>
 </body>
 </html>
